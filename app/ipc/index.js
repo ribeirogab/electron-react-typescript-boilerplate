@@ -1,1 +1,1 @@
-// Require IPC's here
+require('./openAboutWindow');
